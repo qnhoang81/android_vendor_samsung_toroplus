@@ -26,6 +26,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.goo.developerid=qnhoang81 \
     ro.goo.board=$(TARGET_PRODUCT) \
     ro.goo.rom=aokp_$(TARGET_PRODUCT) \
-    ro.goo.version=29
+    ro.goo.version=30
 
 $(call inherit-product, vendor/samsung/toroplus/device-vendor-blobs.mk)
