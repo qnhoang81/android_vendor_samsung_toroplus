@@ -77,6 +77,5 @@ PRODUCT_PACKAGES += \
     su \
     SecPhone \
     SyncMLSvc \
-    SprintExtension \
     GoogleBackupTransport     
 
